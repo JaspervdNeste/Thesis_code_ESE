@@ -1,0 +1,6 @@
+tabulate==0.8.6
+fpdf==1.7.2
+xgboost==0.90.0
+pyathena==1.10.1
+numpy==1.18.2
+seaborn==0.10.1
