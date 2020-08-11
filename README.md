@@ -16,5 +16,5 @@ The script *Train_metalearning* reads the datafiles *Monthly-train.csv* and *Mon
 
 It then trains the meta-learning models, both based on the point forecasts and the prediction intervals. Finally, the performance of the models based on a out-of-sample reference set is calculated and analyzed.
 
-###Forecasting with FFORMA
+### Forecasting with FFORMA
 This script produces the forecasts on a set of 'new' time series. For this, it uses the function *produce_PI_PF*. Predictions on a number of countries have already been done, and the results can be found in the script as well. The previously trained models and results are saved in the folders *Models* and *Results*.
