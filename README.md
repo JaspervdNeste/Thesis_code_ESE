@@ -3,7 +3,7 @@
 
 This research aims at developing a methodology for forecasting the market development for the automotive industry for up to three years in the future. More accurately, the focus lies on finding accurate ways to proxy the market development, and then using a feature-based forecast model averaging approach to forecast this proxied market development.
 
-This document describes how the scripts can be used for creating the Vehicle Price Index and for forecasting it. For further explanation of the logic behind this method, we refer to the document *Forecasting Car Price Index with Feature Based Forecast Model Averaging (Thesis)*.
+This document describes how the scripts can be used for creating the Vehicle Price Index and for forecasting it. For further explanation of the logic behind this method, we refer to the document *Forecasting Car Price Index with Feature Based Forecast Model Averaging (Thesis)*. Note, the results in the scripts can differ slightly from the results in the thesis, due to the use of different pretrained meta-learning models.
 
 
 ### Creating the Index
