@@ -1,4 +1,4 @@
-# Thesis code ESE Jasper Van den Neste
+# Thesis code ESE Van den Neste
 ## "Forecasting the market development of the automotive industry using Feature Based Forecast Model Averaging"
 
 This research aims at developing a methodology for forecasting the market development for the automotive industry for up to three years in the future. More accurately, the focus lies on finding accurate ways to proxy the market development, and then using a feature-based forecast model averaging approach to forecast this proxied market development.
